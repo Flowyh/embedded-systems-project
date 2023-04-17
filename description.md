@@ -1,17 +1,17 @@
 # Elektroniczny kelner (Kerfuś)
 
-## Spis treści
+[PDF](project.pdf)
 
-(#elektroniczny-kelner-kerfuś)
+## Spis treści
 
 - [Elektroniczny kelner (Kerfuś)](#elektroniczny-kelner-kerfuś)
   - [Spis treści](#spis-treści)
   - [Wymagania systemu](#wymagania-systemu)
-      - [Co robi:](#co-robi)
-      - [Jak:](#jak)
-      - [Gdzie:](#gdzie)
-      - [Kto:](#kto)
-      - [Ograniczenia/wymogi:](#ograniczeniawymogi)
+    - [Co robi:](#co-robi)
+    - [Jak:](#jak)
+    - [Gdzie:](#gdzie)
+    - [Kto:](#kto)
+    - [Ograniczenia/wymogi:](#ograniczeniawymogi)
   - [Słownik pojęć](#słownik-pojęć)
 
 ## Wymagania systemu
